@@ -19,7 +19,7 @@ Repository Structure
 Temperature Converter: Contains code and files for the Temperature Converter project
 Landing Page: Files and assets for the Landing Page project
 Portfolio: Code and files for my personal portfolio
-This README provides an overview of my projects and reflections from my internship with Oasis Infobyte. Thank you for visiting my repository!
+This README provides an overview of my projects and reflections from my internship with Oasis Infobyte. Thank you for visiting my repository!.
 
 
 
